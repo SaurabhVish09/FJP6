@@ -1,0 +1,32 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 40px;
+}
+ul{
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type:none;
+    font-size: x-large;
+}
+nav{
+    width: 40vw;
+    margin-top: 10px;
+}
+.bigimage{
+    width: 95vw;
+    margin: 1rem;
+}
+.container{
+    display: flex;
+    justify-content: space-evenly;
+}
+div{
+    text-align: center;
+}
+.container>div>p{
+    font-size: x-large;
+}
+h1{
+    font-weight: normal;
+}
