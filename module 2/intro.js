@@ -22,4 +22,7 @@ if (isprime == true){
 else{
     console.log("number is not prime")
 }
+console.log("my name is saurabh Vishwakarma");
+let num1 = '10';
+console.log(num1);
    
