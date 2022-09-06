@@ -21,3 +21,13 @@ let captain = {
     }
 }
 console.log(captain);
+captain.hi();
+console.log(captain.Name);
+console.log(captain.address);
+//add key in object
+captain.movies= ['ca','Endgame'];
+console.log(captain);
+delete captain.movies;
+console.log(captain);
+console.log(captain.Name);
+console.log(captain['Name']);
