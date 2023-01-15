@@ -24,6 +24,7 @@ console.log(captain);
 captain.hi();
 console.log(captain.Name);
 console.log(captain.address);
+console.log(captain.address.city);
 //add key in object
 captain.movies= ['ca','Endgame'];
 console.log(captain);
