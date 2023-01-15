@@ -30,5 +30,7 @@ captain.movies= ['ca','Endgame'];
 console.log(captain);
 delete captain.movies;
 console.log(captain);
+
+//second method to acess a key;;
 console.log(captain.Name);
 console.log(captain['Name']);
